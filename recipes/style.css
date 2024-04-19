@@ -1,0 +1,11 @@
+h3 {
+    color: blue;
+}
+p, ul, ol, li, h3, h1 {color: purple;
+}
+.abc, .def {
+    color: green;
+}
+#abc {
+    color: aqua;
+}

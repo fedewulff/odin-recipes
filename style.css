@@ -1,0 +1,67 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(255, 225, 58);
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    border: 2px solid green;
+    border-radius: 2rem;
+
+}
+
+
+.abc {
+    display: flex;
+    border: 3px solid red;
+    border-radius: 2rem;
+    width: 95%;
+    margin: 20px auto 100px;
+    margin-bottom: 100px;
+    background: aqua;
+    justify-content: space-between;
+    align-items: center;
+    
+
+    
+}
+.abc h1{
+    
+    font-size: 6rem;
+    border: 2px  salmon;
+    margin: auto 0;
+    
+      
+}
+
+.abc img {
+    
+    border: 2px solid blue;
+    border-radius: 2rem;
+    height: 8rem;
+    margin: 6px;
+    
+
+}
+
+
+.def{
+    display: flex;
+    justify-content: center;
+    gap: 20rem;
+    
+}
+a {
+    border: 3px solid blue;
+    padding: 10px;
+    color: aliceblue;
+    font-size-adjust:none;
+    width: 150px;
+}
+.popo {
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+    
+}
